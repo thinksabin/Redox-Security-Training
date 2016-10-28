@@ -1,5 +1,7 @@
 # Goals and Structure
-This course is designed to teach 
+This curriculum is meant to serve as a self-guided security primer for all Redox employees. 
+
+Note: This is intentionally open-source. If you're interesting in utilizing, contributing to, or logging issues against this repo, please do. 
 
 # Module 1: Security Fundamentals
 This module is designed to introduce you to academic concepts in security. 
